@@ -1,5 +1,5 @@
 {
-  "name": "prosemirror-utils",
+  "name": "@zhennann/prosemirror-utils",
   "version": "0.9.6",
   "description": "Utils library for ProseMirror",
   "main": "dist/index.js",
@@ -8,12 +8,10 @@
     "email": "eshvedai@gmail.com",
     "url": "https://github.com/eshvedai"
   },
-  "maintainers": [
-    {
-      "name": "Eduard Shvedai",
-      "email": "eshvedai@atlassian.com"
-    }
-  ],
+  "maintainers": [{
+    "name": "Eduard Shvedai",
+    "email": "eshvedai@atlassian.com"
+  }],
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -48,7 +46,7 @@
   "peerDependencies": {
     "prosemirror-model": "^1.0.0",
     "prosemirror-state": "^1.0.1",
-    "prosemirror-tables": "^0.9.1"
+    "prosemirror-tables": "^1.1.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -64,7 +62,7 @@
     "prosemirror-model": "^1.0.0",
     "prosemirror-schema-basic": "^1.0.0",
     "prosemirror-state": "^1.0.1",
-    "prosemirror-tables": "^0.9.1",
+    "prosemirror-tables": "^1.1.1",
     "prosemirror-test-builder": "^1.0.1",
     "prosemirror-view": "^1.1.1",
     "rollup": "^0.56.3",
