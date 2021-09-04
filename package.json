@@ -8,10 +8,12 @@
     "email": "eshvedai@gmail.com",
     "url": "https://github.com/eshvedai"
   },
-  "maintainers": [{
-    "name": "Eduard Shvedai",
-    "email": "eshvedai@atlassian.com"
-  }],
+  "maintainers": [
+    {
+      "name": "Eduard Shvedai",
+      "email": "eshvedai@atlassian.com"
+    }
+  ],
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
